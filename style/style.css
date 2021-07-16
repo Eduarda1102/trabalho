@@ -1,0 +1,22 @@
+
+body {
+		font: Noto Sans, sans-serif	;
+}
+h1, h2, h3 {
+	color: #D9DD6B;
+}
+h4, h5, h6 {
+	color: #ECEFA4;
+}
+p {
+	color: #D54C4C;
+	font-size: 22px;
+}
+
+ul, ol {
+	color: #8D2828;
+	font-size: 20px;
+	font: Arial Narrow, sans-serif;
+
+}
+
